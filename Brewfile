@@ -1,0 +1,6 @@
+tap "homebrew/bundle"
+tap "homebrew/core"
+tap "romkatv/powerlevel10k"
+brew "neovim"
+brew "python@3.9"
+brew "romkatv/powerlevel10k/powerlevel10k"
